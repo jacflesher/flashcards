@@ -1,0 +1,12 @@
+{
+    "questions":[
+        "what color is the sky?",
+        "how many fingers?",
+        "what time is it?"
+    ],
+    "answers":[
+        "blue",
+        "five",
+        "6:30pm"
+    ]
+}
